@@ -10,6 +10,7 @@ This code executes the proposed method for a set of input images. The contents o
 
 - Matlab (tested on v2018b or earlier). 
 - The FitEllipsoidEnhanced.m script provides the same functionality as FitEllipsoidEnhancedOpt.m, but the former does not need MEX file compilation while the latter is faster.
+
 ---
 
 ### Set up
