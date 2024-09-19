@@ -4,7 +4,7 @@ This repository contains the source code of the paper [Robust Fitting of Ellipso
 
 This code executes the proposed method for a set of input images. The contents of this code are provided without any warranty. They are intended for evaluational purposes only.
 
-![Alt text](Example.PNG?raw=true "Example of ellipsoid fitting to scanned data")
+![Alt text](Example.png?raw=true "Example of ellipsoid fitting to scanned data")
 
 ### Pre-requisites
 
